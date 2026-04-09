@@ -8,6 +8,8 @@
  * light karam and masala
 
 ## Karam Dosa
-   dossa batter
-   light karam
-   oil added
+   * dossa batter
+   * light karam
+   * oil added
+   * salt added
+   * masalaadded
