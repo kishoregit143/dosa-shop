@@ -7,4 +7,6 @@
  * light oil
  * light karam and masala
 
-## Karam Dosa 
+## Karam Dosa
+   dossa batter
+   light karam
